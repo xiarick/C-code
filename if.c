@@ -31,15 +31,4 @@ int main(void)
 		printf("ÀÏÄê\n");
 	else printf("³¤ÊÙ\n");
 	return 0;
-	
-
-
-
-
-	
-
-
-
-
-
-}
+	}
